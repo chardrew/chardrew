@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chardrew
-- 👀 I’m interested in making the world a better place using Data Science and Machine Learning
+- 👀 I’m interested in making people's lives better using Data Science and Machine Learning
 - 🌱 I’m currently learning to develop Android Apps in Kotlin and building machine learning models
 - 📫 Reach me at <GITHUB_ALIAS>@outlook.com.au
 
