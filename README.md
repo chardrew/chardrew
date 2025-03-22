@@ -1,6 +1,6 @@
 # 👋 Hey there - I'm Andrew
 
-I'm a data enthusiast with experience in **Data Engineering, Machine Learning, and Data Analysis**. My work focuses on **building scalable data pipelines, processing real-time data, and extracting insights** to drive better decision-making.
+I'm a data expert with experience in **Data Engineering, Machine Learning, and Data Analysis**. My work focuses on **building scalable data pipelines, processing real-time data, and extracting insights** to drive better decision-making.
 
 I pride myself on being able to **figure out** and **teach myself anything** - There is no challenge too difficult. I thoroughly enjoy breaking down complex problems and **conveying solutions** in a way that everyone can understand and make better decisions.
 
