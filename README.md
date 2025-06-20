@@ -6,16 +6,16 @@ I pride myself on being able to **figure out** and **teach myself anything** - T
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🏗️ **Data Engineer** with expertise in **Kafka, Spark, PostgreSQL, Airflow, and Docker**
-- 📊 Experience in **Data Science & Analytics**, working with **machine learning, NLP, and data visualisation**
-- 🔍 Passionate about **real-time data pipelines, cloud computing, and workflow automation**
-- 🎓 Master of Engineering (Electrical) & Bachelor of Science (Electrical Systems) from **University of Melbourne**
+- **Data Engineer** with expertise in **Kafka, Spark, PostgreSQL, Airflow, and Docker**
+- Experience in **Data Engineering & Analytics**, working with **machine learning, data pipelines and visualisations**
+- Passionate about **real-time data pipelines, cloud computing, and workflow automation**
+- Master of Engineering (Electrical) & Bachelor of Science (Electrical Systems) from **University of Melbourne**
 
 ---
 
-## 💡 Featured Projects
+## Featured Projects
 
 ### 🌤 Real-Time Weather Data Pipeline ([Repo](https://github.com/chardrew/weather-dashboard))
 - **Tech Stack:** Kafka, Spark Streaming, PostgreSQL, Airflow, WebSockets, Streamlit, Docker
@@ -52,7 +52,7 @@ I pride myself on being able to **figure out** and **teach myself anything** - T
 
 ---
 
-## 📜 Skills & Technologies
+## Skills & Technologies
 
 ### 🛠 **Data Engineering**
 - **Big Data:** Apache Kafka, Apache Spark (Structured Streaming, PySpark)
@@ -73,7 +73,8 @@ I pride myself on being able to **figure out** and **teach myself anything** - T
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
+
 - **GitHub:** [github.com/chardrew](https://github.com/chardrew)
 - **LinkedIn:** [linkedin.com/in/andrewregan](https://linkedin.com/in/andrewregan/)
 - **Email:** [chardrew@outlook.com.au](mailto:chardrew@outlook.com.au)
