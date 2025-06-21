@@ -75,6 +75,4 @@ I pride myself on being able to **figure out** and **teach myself anything** - T
 
 ## Connect with Me
 
-- **GitHub:** [github.com/chardrew](https://github.com/chardrew)
-- **LinkedIn:** [linkedin.com/in/andrewregan](https://linkedin.com/in/andrewregan/)
 - **Email:** [chardrew@outlook.com.au](mailto:chardrew@outlook.com.au)
